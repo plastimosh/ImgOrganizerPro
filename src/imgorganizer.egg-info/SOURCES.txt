@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/application/select_directory.py
+src/domain/directory.py
+src/domain/validator.py
+src/imgorganizer.egg-info/PKG-INFO
+src/imgorganizer.egg-info/SOURCES.txt
+src/imgorganizer.egg-info/dependency_links.txt
+src/imgorganizer.egg-info/top_level.txt
+src/infrastructure/directory_gateway.py
+src/infrastructure/tkinter_gateway.py
+src/presentation/main.py
+tests/test_select_directory.py
